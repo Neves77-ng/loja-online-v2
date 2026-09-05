@@ -1,4 +1,4 @@
-temperatura = float(input("Insira a temperatura atual:"))
+temperatura = float(input("Insira a temperatura atual: "))
 
 if temperatura > 25:
     print("Está quente pa porra")
@@ -8,5 +8,3 @@ elif temperatura < 15:
 
 else:
     print("Climinha gostoso!!")
-
-
