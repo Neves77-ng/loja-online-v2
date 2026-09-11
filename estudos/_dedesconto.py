@@ -20,4 +20,4 @@ else:
 valor_desconto = valor*(desconto/100)
 valor_final = valor - valor_desconto
 
-print(f"Lhe foi concedido {desconto}% de desconto, valor final da sua compra é: R$ {valor_final:.2f}")
+print(f"Foi lhe concedido um desconto de {desconto}%, valor final da sua compra é: R$ {valor_final:.2f}")
